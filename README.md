@@ -1,5 +1,5 @@
 # Calculator-Coursework
-Калькулятор с простым и расширенным режиме / Calculator with simple and advanced mode
+Калькулятор с простым и расширенным режимом / Calculator with simple and advanced mode
 
 ## Описание 
 #### Стандартный функционал:
